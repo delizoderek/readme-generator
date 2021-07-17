@@ -1,6 +1,8 @@
 # Readme Generator
   ## Description
-  This application builds a readme file using input from the user
+  This application generates a readme based on user input. When running the application from the command line, the user will be prompted with a series of questions to populate the reademe.
+  ## Application Usage
+  [Video Sample](https://youtu.be/Ej2sE2JYtsc)
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
@@ -9,15 +11,17 @@
   - [Questions](#questions)
   - [License](#license)
   ## Installation
-  clone the repository, then run npm install packages in the root directory
+  clone the repository, run `npm install` from the root directory
   ## Usage
-      `const generator = require('generateMarkdown');`
+      node index.js
   ## Testing
       npm test
   ## Contributing
-  Please reach out to me if you are interested
+  Please reach out to me if you would be interested in assisting with this application
   ## Questions
-  [Github](https://github.com/ghowlett)
+  [Github](https://github.com/delizoderek)
+  <br>
+  <br>
   [Email](dwdelizo@gmail.com)
   # License
-  [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+  [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
